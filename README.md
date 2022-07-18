@@ -2,7 +2,7 @@
 Develop a pseudo front end application which would let the users help list and browse games developed for different platforms conveniently.
 
 ## How to run the project online
-Open the online demo [here](https://Eshika234.github.io/Games-Arena)
+Open the online demo [here](https://eshika234.github.io/web-game-application)
 
 ## Features
 
@@ -25,7 +25,7 @@ The project uses [Node.js >= 6.x](https://nodejs.org/en/) and the [Create-React-
 After Node is installed in your system, follow the below steps.
 
 1. Navigate to the directory where you want to store the app.
-2. Clone the repo `git clone https://github.com/Eshika234/Games-Arena.git`
+2. Clone the repo `git clone https://github.com/eshika234/web-game-application.git`
 3. Now install all modules listed as dependencies in `package.json` by running the command `npm install`
 4. Launch the app with this command `npm start`
 
