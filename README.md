@@ -1,4 +1,4 @@
-# Games-Arena | Cogoport Frontend Developer Hiring Challenge
+
 Develop a pseudo front end application which would let the users help list and browse games developed for different platforms conveniently.
 
 ## How to run the project online
@@ -37,6 +37,6 @@ A new browser window open automatically displaying the app.  If it doesn't, navi
 
 1. Build the production ready optimised code. `npm run build`
 2. Deploy it to `gh-pages` branch by `npm run deploy`
-3. Check the online demo [here](https://Eshika234.github.io/web-game-application)
+3. Check the online demo [here](https://eshika234.github.io/web-game-application)
 
 
